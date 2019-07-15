@@ -4,3 +4,6 @@
 [submodule "jabranham-emacs"]
 	path = jabranham-emacs
 	url = https://gitlab.com/jabranham/emacs
+[submodule "mrbig003-emacs"]
+	path = mrbig003-emacs
+	url = https://github.com/mrbig033/emacs
