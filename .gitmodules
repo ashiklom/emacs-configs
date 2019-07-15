@@ -7,3 +7,6 @@
 [submodule "mrbig003-emacs"]
 	path = mrbig003-emacs
 	url = https://github.com/mrbig033/emacs
+[submodule "emacs-for-writers"]
+	path = emacs-for-writers
+	url = https://github.com/frankjonen/emacs-for-writers
