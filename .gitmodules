@@ -10,3 +10,27 @@
 [submodule "emacs-for-writers"]
 	path = emacs-for-writers
 	url = https://github.com/frankjonen/emacs-for-writers
+[submodule "fernando-mayer-spacemacs"]
+	path = fernando-mayer-spacemacs
+	url = https://github.com/fernandomayer/spacemacs
+[submodule "karawoo-prelude"]
+	path = karawoo-prelude
+	url = https://github.com/karawoo/prelude
+[submodule "miles-mcbail-spacemacs"]
+	path = miles-mcbail-spacemacs
+	url = https://github.com/milesmcbain/spacemacs_cfg
+[submodule "chuvanan-dotfiles"]
+	path = chuvanan-dotfiles
+	url = https://github.com/chuvanan/dot-files
+[submodule "japhir-archconfigs"]
+	path = japhir-archconfigs
+	url = https://github.com/japhir/archconfigs
+[submodule "stevelane-emacs"]
+	path = stevelane-emacs
+	url = https://github.com/stevelane/dot-emacs
+[submodule "fmichonneau-dotfiles"]
+	path = fmichonneau-dotfiles
+	url = https://github.com/fmichonneau/dotfiles
+[submodule "dickoa-emacs"]
+	path = dickoa-emacs
+	url = https://gitlab.com/dickoa/emacs.d
