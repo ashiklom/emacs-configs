@@ -1,3 +1,6 @@
 [submodule "patrickt-emacs"]
 	path = patrickt-emacs
 	url = https://github.com/patrickt/emacs
+[submodule "jabranham-emacs"]
+	path = jabranham-emacs
+	url = https://gitlab.com/jabranham/emacs
