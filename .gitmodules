@@ -1,0 +1,3 @@
+[submodule "patrickt-emacs"]
+	path = patrickt-emacs
+	url = https://github.com/patrickt/emacs
